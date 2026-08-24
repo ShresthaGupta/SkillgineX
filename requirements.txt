@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+pypdf
+ollama
+regex
+chromadb 
+langchain-community 
+langchain-core 
+langchain-text-splitters
+langchain-ollama
+rank-bm25
+pydantic
+arize-phoenix 
+openinference-instrumentation-ollama
